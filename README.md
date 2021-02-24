@@ -26,7 +26,7 @@ https://pub.dev/packages/tflite_flutter/install
 1- Clone the project:
 
 ```
-git clone https://github.com/MCarlomagno/FaceRecognitionAuth.git
+git clone https://github.com/Darkhorse07232020/Flutter_Face_Recognization_Auth_with_TensorFlow.git
 ```
 2- Open the folder:
 
